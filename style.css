@@ -1,0 +1,118 @@
+/*
+Theme Name: Ucorpora
+Description: This child theme I have created.
+Author:singhalka
+Template:twentyseventeen
+*/
+#nav > ul > li {
+	max-width: 100% !important;
+    width: 20% !important;
+    height: 100%;
+    float: left;
+    background-color: #cc470d !important;
+}
+ #send {
+    max-width: 100%;
+    width: 36%;
+    max-height: 100%;
+    height: 47px;
+    line-height: initial;
+    margin-right: -23px;
+}
+ #name {
+    width: 100% !important;
+    background: #464646;
+    border: none;
+    padding: 16px 12px 14px 12px;
+    border-radius: 0px;
+
+}
+#email {
+    width: 100% !important;
+    background: #464646;
+    border: none;
+    padding: 16px 12px 14px 12px;
+    border-radius: 0px;
+    margin-top: 10px;
+}
+#message {
+    width: 100% !important;
+    background: #464646;
+    border: none;
+    padding: 16px 12px 14px 12px;
+    border-radius: 0px;
+    margin-top: 10px;
+}
+ul#sidebar {
+    max-width: 100% !important;
+    width: inherit;
+}
+.menu-item-53{
+    display: none;
+}
+#secondary {
+    display: none;
+}
+svg.icon.icon-angle-down {
+    display: none !important;
+}
+.ret2 {
+    margin-top: 31px !important;
+}
+h2.be_con_pro {
+    float: none;
+    margin: 0px 409px -8px 0px;
+}
+.services {
+    background: deepskyblue;
+    max-width: 100%;
+    width: 50%;
+    float: left;
+    color: white;
+}
+/*.supports{
+    background-color: black;
+    color: white;
+    max-width: 100%;
+    width: 50%;
+    float: right;
+}*/
+.rpc-content{
+    display: none !important;
+}
+.car-caption {
+    display: none;
+}
+
+ul#clearfix li.current-menu-item a {
+    background: #b34340 !important;
+}
+.breadcrumbs {
+    max-height: 100%;
+    height: 60px !important;
+}
+a.post.post-page.current-item {
+    color: gray !important;
+}
+a.home{
+    color: gray !important;
+}
+.skillbar-bar {
+height: 35px;
+background: #fb8865 !important;
+}
+.skillbar {
+    margin-bottom: -2px !important;
+    width: 100%;
+    background: #fb8865 !important;
+    height: 34px;
+    margin-top: 10px !important;
+    color: white;
+}
+
+.skillbar {
+    position: relative;
+    margin-bottom: 40px !important;
+    width: 100%;
+    height: 0px !important;
+}
